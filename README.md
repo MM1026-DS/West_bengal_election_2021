@@ -1,7 +1,7 @@
 # West_bengal_election_2021
 Every data have a hidden patteren and we need to understan the data and make it useful with for the future ,Currently in this issue it is a Hackthon challenge provided by the 
 polestar the main theme is to not only understand the data but also provide something useful
-I selected the theme of Election 
+I selected the Theme of  Innovation and Election 
 
 Below graph is showing the first gernal election in India in 1951-52 
 
