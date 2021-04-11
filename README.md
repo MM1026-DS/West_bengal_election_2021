@@ -6,3 +6,4 @@ I selected the theme of Election
 ![image](https://user-images.githubusercontent.com/64748090/114087331-654c0600-98d1-11eb-921f-7e5c65ad7511.png)
 
 ![image](https://user-images.githubusercontent.com/64748090/114087888-05a22a80-98d2-11eb-80c9-4d8e98f7c5d6.png)
+I am analyis the data and try to find out the information about the which is important for the election point of view
