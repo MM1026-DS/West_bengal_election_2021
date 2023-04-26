@@ -13,7 +13,6 @@ Below graph is showing the first gernal election in India in 1951-52
 
 
 
-I am analyis the data and try to find out the information about the which is important for the election point of view
-
+I am analyzing the data and trying to find information that is important from an election point of view."
 
 <a href="https://public.tableau.com/profile/mayank.mishra4078#!/vizhome/InnovationandElection/Story3?publish=yes">Tableau Dashboard Analysis</a>
